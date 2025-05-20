@@ -1,0 +1,45 @@
+altgraph==0.17.4
+asgiref==3.8.1
+boto3 @ file:///C:/b/abs_f83_h23d8m/croot/boto3_1738259930419/work
+botocore @ file:///C:/b/abs_1ctc2plazh/croot/botocore_1738226903582/work
+Brotli @ file:///C:/b/abs_c415aux9ra/croot/brotli-split_1736182803933/work
+click @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/click_1729040674118/work
+colorama @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/colorama_1729036581634/work
+dj-database-url==2.3.0
+Django==5.1.6
+django-cors-headers @ file:///home/conda/feedstock_root/build_artifacts/django-cors-headers_1738928153436/work
+django-filter @ file:///home/conda/feedstock_root/build_artifacts/django-filter_1734342583497/work
+django-ses==4.4.0
+django-storages @ file:///home/conda/feedstock_root/build_artifacts/django-storages_1739648337799/work
+djangorestframework @ file:///home/conda/feedstock_root/build_artifacts/djangorestframework_1733236662144/work
+djangorestframework-gis @ file:///home/conda/feedstock_root/build_artifacts/djangorestframework-gis_1737013807850/work
+djangorestframework_simplejwt==5.5.0
+et_xmlfile==2.0.0
+GDAL==3.10.2
+gunicorn==23.0.0
+jmespath @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/jmespath_1729040936778/work
+numpy==2.2.2
+openpyxl==3.1.5
+packaging==24.2
+pandas==2.2.3
+pefile==2023.2.7
+pillow @ file:///D:/bld/pillow_1735929727881/work
+psycopg2 @ file:///D:/bld/psycopg2-split_1727892618040/work
+psycopg2-binary==2.9.10
+pyinstaller==6.11.1
+pyinstaller-hooks-contrib==2025.1
+PyJWT==2.9.0
+PySocks @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/pysocks_1729039320841/work
+python-dateutil==2.9.0.post0
+python-dotenv @ file:///C:/b/abs_71cpoh9hpg/croot/python-dotenv_1745613639902/work
+pytz==2025.1
+pywin32-ctypes==0.2.3
+s3transfer @ file:///C:/b/abs_e1_skf5kqf/croot/s3transfer_1738245166863/work
+setuptools==75.8.0
+six==1.17.0
+sqlparse==0.5.3
+typing_extensions @ file:///C:/b/abs_0ffjxtihug/croot/typing_extensions_1734714875646/work
+tzdata==2025.1
+urllib3 @ file:///C:/b/abs_7bst06lizn/croot/urllib3_1737133657081/work
+wheel==0.45.1
+win_inet_pton @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/win_inet_pton_1729038644686/work
